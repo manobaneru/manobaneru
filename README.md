@@ -1,6 +1,6 @@
 ## Hi there, I'm Victoria 👋
 
-I'm BMSTU student with experience in cybersecurity and testing.
+I'm BMSTU student with work experience in cybersecurity and testing.
 
 ## About my skills
   
