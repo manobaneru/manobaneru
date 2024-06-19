@@ -1,6 +1,6 @@
 ## Hi there, I'm Victoria 👋
 
-I'm BMSTU student with work experience in cybersecurity and testing.
+Application Security Engineer @ ALGONT | Information Security of Automated Systems @ BMSTU.
 
 ## About my skills
   
