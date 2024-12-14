@@ -1,11 +1,9 @@
 ## Hi there, I'm Victoria 👋
 
-Application Security Engineer @ ALGONT | Information Security of Automated Systems @ BMSTU.
+Cybersecurity Analyst @ Positive Technologies | Information Security of Automated Systems @ BMSTU.
 
 ## About my skills
   
-[![codewars](https://www.codewars.com/users/manobaneru/badges/micro)](https://www.codewars.com/users/manobaneru) 
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
